@@ -1,0 +1,7 @@
+[*]
+end_of_line = lf
+spaces = 2
+
+[*.{sh}]
+end_of_line = lf
+spaces = 2
