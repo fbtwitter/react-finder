@@ -22,6 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+*.env*
 
 # yarn v2
 .yarn/*
